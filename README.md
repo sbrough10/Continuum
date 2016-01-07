@@ -1,9 +1,5 @@
 # Continuum
 
-This prototype Android game I have created from scratch is a pared down imitation of the of the mobile app "Infinity Loop".
+This prototype Android game I have created from scratch is a pared down imitation of the of the mobile app "Infinity Loop". This app, though only a prototype at best, is built to run on most modern Android APIs (at least >14) and can adapt to a variety of screen resolutions and sizes. The app does not save any data after been closed, but the, because there isn't much data to lose at this stage of development, restarting the app is an effective way of resetting the game.
 
-The game consists of multiple levels in which users tap pieces on the screen in order to make the rotate. The objective is to rotate all the pieces until they form one more loops.
-
-I attempted to make the game slightly more difficult by forcing users press the "Check My Work" button once they think they have solved the puzzle, rather than being able to aimlessly rotate pieces until the correct permutation has been struck.
-
-The game might also be made more interesting/difficult by introducing new grid types, such as triangles, hexagons, or a combination of octagons and squares rather sticking with the standard cartesian style that the original Infinity Loop does.
+The game consists of multiple levels in which users tap pieces on the screen in order to make the rotate. The objective is to rotate all the pieces until they form one more loops. I attempted to make solving the puzzles slightly more challenging by forcing users press the "Check My Work" button once they think they have solved the puzzle, rather than being able to aimlessly rotate pieces until the correct permutation has been struck. The game might also be made more interesting/difficult by introducing new grid types, such as triangles, hexagons, or a combination of octagons and squares rather sticking with the standard cartesian style that the original Infinity Loop utilizes throughout its levels.
